@@ -1,0 +1,56 @@
+meta data adalah pengenal
+tag h1-h6 sangat berpengaruh dalam seo website
+alt kegunaan buat membaca seo google
+.. membaca dari struktur bawah sendiri misal ini.jpg folder ..
+kegunaan tag penutup satu baris adalah penanda
+hr horizontal line
+
+	form
+
+fieldshet kegunaan membuat satu group form
+legend head judul
+
+fungsi name pada form membuat group
+kegunaan value,name pada form adalah pengaruh pada backendnya atau penanda
+kegunaan action mengirim data ke backend
+required
+kegunaan atribut penjelas sebuah tag
+
+sifat dari bahasa markup adalah statis atau tidak dapat diubah hanya mendefinisikan sebuah kumpulan tag
+
+zxcvbnm2127
+
+css
+ 
+font
+
+sans-serif text biasa
+serif ada siripnya 
+
+perbedaan satuan pada css
+
+px adalah aturan default
+em adalah 1 em = 12px
+
+padding = jarak antara border dan konten
+margin = jarak antara luar padding
+
+cascade = menimpa-nimpa
+
+display 
+block mengambil penuh full'
+inline satu baris
+inline-block satu baris satu block yg dipilih
+
+trsnform mengubah gaya 
+transisi 
+
+git
+
+kegunaan tab melihat daftar yg ada
+-r recursive = hapus semuanya
+
+readme = petunjuk penggunaan
+track = deteksi
+staged = mau mengirim (git commit -m "<pesan>")
+git push = mengirim git

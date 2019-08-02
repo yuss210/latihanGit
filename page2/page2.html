@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ini sebuah form</title>
+</head>
+<body>
+    <h3>buat daftar list dan form</h3>
+    <ul>
+        <li>nama</li>
+        <li>jenis</li>
+        <li>alamat</li>
+        <ol>
+            ini tanpa tanda bulet oke tetapi menggunakan huruf di listnya
+            <li>enaknya nomer berapa</li>
+            <li>ini nomer dua lo</li>
+        </ol>
+    </ul>
+
+    <form action="../index.html">
+        <fieldset>
+            <legend>inijudulnya</legend><br>
+            namamu siapa
+            <input type="text"><hr>
+            ini password
+            <input type="password" name="pwd" id="pwd">
+            <button type="button">kliklah</button>
+            <br>
+            <input type="radio" name="group" value="barang" checked>kasur
+            <input type="radio" name="group" value="orang">dee
+            <input type="radio" name="group" value="barang">meja
+
+            <input type="checkbox" name="checkbox" id="1">ini satu <br>
+            masukan email
+            <input type="email" name="email" id="email" required>
+            <button type="submit">inidia</button>
+        </fieldset>
+    </form>
+
+    <select name="pilihgen" id="gen">
+        <option value="gen">laki-laki</option>
+        <option value="perempuan">perempuan</option>
+    </select>
+    <a href="../index.html">ini balik</a>
+</body>
+</html>
